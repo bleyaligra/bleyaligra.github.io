@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bleyaligra.github.io/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/app/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/assets/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/css/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/includes/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/item/sitemap.html.gz
+Sitemap: https://bleyaligra.github.io/src/sitemap.html.gz
